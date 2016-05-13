@@ -17,8 +17,12 @@ public class PruebaNegraGit {
     public static void main(String[] args) {
         // TODO code application logic here
         int var;
+        String ABC;
+        
+        //Este comtaario es basura. 
         // desde bryan
         //Maria Jose
+        //hola
         
         //la la lalala 
         
