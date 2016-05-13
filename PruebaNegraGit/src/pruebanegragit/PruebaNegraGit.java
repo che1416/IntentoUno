@@ -18,7 +18,7 @@ public class PruebaNegraGit {
         // TODO code application logic here
         int var;
         String ABC;
-        int i;
+        int i,j;
         //Este comtaario es basura. 
         // desde bryan
         //Maria Jose
